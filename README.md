@@ -6,10 +6,9 @@ This project is a clone of orbitz.com, which is a is a travel fare aggregator we
 
 ## Deployed link
 
-https://elegant-agnesi-f6525b.netlify.app/
+https://orbitz-clone-1.netlify.app/
 
-
-## Authors
+## Contributers
 
 * Imran Khan (https://github.com/imran120198)
 
