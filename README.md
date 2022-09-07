@@ -6,8 +6,8 @@ This project is a clone of orbitz.com, which is a is a travel fare aggregator we
 
 ## Deployed link
 
-https://orbitz-clone-1.netlify.app/
-https://orbitz.vercel.app/
+* <a href ="https://orbitz-clone-1.netlify.app/">Netlify Deployed Link </a>
+* <a href ="https://orbitz.vercel.app/">Vercel Deployed Link </a>
 
 ## Contributers
 
