@@ -7,20 +7,22 @@ This project is a clone of orbitz.com, which is a is a travel fare aggregator we
 ## Deployed link
 
 https://orbitz-clone-1.netlify.app/
+https://orbitz.vercel.app/
 
 ## Contributers
 
-* Imran Khan (https://github.com/imran120198)
 
-* Omkar Joshi (https://github.com/omjoshi29)
+* <a href="https://github.com/imran120198">Imran Khan</a>
 
-* Harshada Jagtap (https://github.com/harshadajagtap25)
+* <a href="https://github.com/omjoshi29">Omkar Joshi</a>
 
-* Vrushali Ramesh Kajave (https://github.com/vrushalikajave)
+* <a href="https://github.com/harshadajagtap25">Harshada Jagtap</a>
 
-* MohitKawle (https://github.com/MohitKawle)
+* <a href="https://github.com/vrushalikajave">Vrushali Kajave</a>
 
-* Ayush pandey (https://github.com/ayushpandey1402)
+* <a href="https://github.com/MohitKawle">Mohit Kawle</a>
+
+* <a href="https://github.com/ayushpandey1402">Ayush Pandey</a>
 
 
 ## Features
